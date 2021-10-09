@@ -1,3 +1,3 @@
-Name: Daniel
+Name: Daniel Vilches
 Age: 23
 Favorite Color: Green
